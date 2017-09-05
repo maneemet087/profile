@@ -1,7 +1,7 @@
 body {
     padding: 30px 100px;
     font-family: 'Athiti', sans-serif;
-    background-color: lightskyblue;
+    background-color: #96DFF3;
 }
 
 .img-circle {
@@ -12,15 +12,37 @@ body {
 
 h1 {
     font-family: 'Athiti', sans-serif;
+    margin-bottom: 0px;
+    font-size: 50 ;
+
+}
+
+h2 {
+    font-family: 'Athiti', sans-serif;
+    margin-bottom: 0px;
+    font-size: 50 ;
+
 }
 .content {
     text-align: center;
-    padding: 20px;
+    padding: 1px;
 }
 
 .profile-pic {
     margin: auto;
     text-align: center;
+}
+
+.subtitle{
+    font-family: 'Athiti', sans-serif;
+    text-align: center;
+    font-size: 30 ;
+}
+
+.subtitle{
+    font-family: 'Athiti', sans-serif;
+    text-align: center;
+    font-size: 30 ;
 }
 
 .card {
